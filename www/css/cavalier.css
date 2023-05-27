@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #111927;
+    font-family: Arial, sans-serif;
+    max-width: 1200px0;
+    margin: 0 auto;   
+}
+
+img{
+    max-width: 100%;
+}
+
+header{
+    display: flex;
+    align-items: center;
+    padding: 30px;
+    justify-content: center;
+}
+
+#tit {
+    padding: 30px;
+    background-color: #eee;
+    margin-bottom: 50px;
+    color: #222
+}
+
+#info, #esp {
+    text-align: justify; 
+    padding: 20px;
+}

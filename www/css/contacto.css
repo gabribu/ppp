@@ -1,0 +1,38 @@
+body {
+    background-color: #111927;
+}
+
+#title {
+    color: white;
+    text-align: center;
+}
+
+#phones {
+    color: white;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+#hours {
+    color: white;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+#mail {
+    color: white;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+#zip-code {
+    color: white;
+    margin-left: 50px;
+    margin-right: 50px;
+}   
+
+#form {
+    color: white;
+    margin-left: 50px;
+    margin-right: 50px;
+}

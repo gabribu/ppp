@@ -1,0 +1,16 @@
+body {
+    background: rgb(34, 36, 58);
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+  }  
+
+
+#mis, #vis, #val {
+    padding: 20px;
+    box-sizing: border-box;
+    background-color: #a0a0a0;
+    margin-bottom: 5px;
+    border-radius: 5px;
+    
+}

@@ -1,0 +1,89 @@
+
+body {
+  background: lightblue;
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+header {
+  background-color: #333;
+  color: white;
+  padding: 20px;
+}
+
+.container{
+  position: relative;
+  width: 100%;
+  max-width: 1000px;
+  min-height: 1000px;
+  background: #fff;
+  margin:160px;
+  display: grid;
+  grid-template-columns: 1fr 2fr ;
+  box-shadow: 0 35px 55px rgba(211, 68, 68, 0.1);
+}
+
+img {
+  float: right;
+  width: 250px;
+  height: 250px;
+}
+
+h1 {
+  text-align: center;
+  margin: 0;
+}
+
+#data {
+  max-width: 1300px;
+  margin: 100 auto;
+  padding: 20px;
+  background-color: white;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.2);
+}
+
+#xp ul {
+  width: 140%;
+  padding: 10px;
+  box-sizing: 120px;
+  background-color: #f2f2f2;
+  margin-bottom: 10px;
+  border-radius: 5px;
+}
+
+#edu li {
+  width: 70%;
+  padding: 10px;
+  box-sizing: border-box;
+  background-color: #f2f2f2;
+  margin-bottom: 10px;
+  border-radius: 5px;
+  float: right;
+}
+
+#edu h2{
+  float: right;
+}
+
+#data, #xp, #edu, #lang_sk, #lear {
+  padding: 20px;
+  border-bottom: 1px solid #ccc;
+}
+
+h2 {
+  margin-top: 0;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+li {
+  margin-bottom: 10px;
+}
+
+#l_l{
+  float: right;
+}
